@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-
+![Army GIF](army.gif)
 ## 🚀 About Me
 
 I'm a **Master's student in Health, Safety & Environment (HSE)** with a strong passion for **competitive programming, algorithms**, and clean code. Although my academic path is rooted in HSE, my heart beats for solving tough problems and cracking complex logical puzzles.
